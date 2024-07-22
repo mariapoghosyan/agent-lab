@@ -1,0 +1,16 @@
+azure-cli
+azure-identity
+fuzzywuzzy
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+matplotlib
+openai
+nbformat
+pytz
+pandas
+poetry
+rouge-score
+requests
+termcolor

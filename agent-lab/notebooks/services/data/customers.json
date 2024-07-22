@@ -1,0 +1,50 @@
+[
+  {
+    "firstname": "Bart",
+    "lastname": "Simpson",
+    "email": "bart@simpson.com",
+    "id": "#1234",
+    "card_digits": "8743",
+    "address": {
+      "street": "1234 Elm St",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62701",
+      "country": "USA"
+    },
+    "special": "true",
+    "phone": "555-555-5555"
+  },
+  {
+    "firstname": "Homer",
+    "lastname": "Simpson",
+    "email": "homer@simpson.com",
+    "id": "#5678",
+    "card_digits": "6295",
+    "address": {
+      "street": "742 Evergreen Terrace",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62701",
+      "country": "USA"
+    },
+    "special": "true",
+    "phone": "555-555-5556"
+  },
+  {
+    "firstname": "Margie",
+    "lastname": "Simpson",
+    "email": "margie@simpson.com",
+    "id": "#9101",
+    "card_digits": "4801",
+    "address": {
+      "street": "742 Evergreen Terrace",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62701",
+      "country": "USA"
+    },
+    "special": "false",
+    "phone": "555-555-5557"
+  }
+]
