@@ -18,9 +18,9 @@ These notebooks are completed, meaning that you don't have to write any code, bu
 play and debug the code presented to better understand the steps you are following.
 
 Depending on your environment setup, you can run the notebooks:
-
-- [using VSCode using a devcontainer](./docs/environment-setup-devcontainer.md)  or
-- [using Jupyter lab with a local virtualenv](./docs/environment-setup-local-virtualenv.md).
+- [using Codespaces](../docs/environment-setup-codespaces.md) or 
+- [using VSCode using a devcontainer](../docs/environment-setup-devcontainer.md)  or 
+- [using Jupyter lab with a local virtualenv](../docs/environment-setup-local-virtualenv.md).
 
 <br>
 
