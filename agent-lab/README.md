@@ -7,19 +7,18 @@ If you're totally new to Agents and Generative AI applications in general, you m
 In order to complete the lab, it is helpful to have:
 
 - Basic knowledge of [Python](https://python.org), you don't need to be a python ninja, but it is encouraged to play with the examples provided.
-- Elementary knowledge of how to use [Jupiter notebooks](https://jupyter.org/) (run cells, debug cells...)
+- Elementary knowledge of how to use [Jupyter notebooks](https://jupyter.org/) (run cells, debug cells...)
 
 <br>
 
 ## Running notebooks
 
-In the `notebooks` folders there are 8 notebooks representing each step.
+In the `notebooks` folders there are 8 notebooks representing each step of building the agent.
 These notebooks are completed, meaning that you don't have to write any code, but it is warmly encouraged to tweak,
 play and debug the code presented to better understand the steps you are following.
 
 Depending on your environment setup, you can run the notebooks:
-- [using Codespaces](../docs/environment-setup-codespaces.md) or 
-- [using VSCode using a devcontainer](../docs/environment-setup-devcontainer.md)  or 
+- [using VSCode using a devcontainer](../docs/environment-setup-devcontainer.md) (recommended option)  or 
 - [using Jupyter lab with a local virtualenv](../docs/environment-setup-local-virtualenv.md).
 
 <br>
