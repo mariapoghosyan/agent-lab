@@ -1,4 +1,4 @@
-# Agents Lab
+# Agent Lab
 
 This lab will provide you with a gentle introduction to AI Agents.
 
@@ -17,9 +17,11 @@ In the `notebooks` folders there are 8 notebooks representing each step of build
 These notebooks are completed, meaning that you don't have to write any code, but it is warmly encouraged to tweak,
 play and debug the code presented to better understand the steps you are following.
 
-Depending on your environment setup, you can run the notebooks:
-- [using VSCode using a devcontainer](../docs/environment-setup-devcontainer.md) (recommended option)  or 
-- [using Jupyter lab with a local virtualenv](../docs/environment-setup-local-virtualenv.md).
+You have 2 options for environment setup and using Notebooks. Please choose the one which suits you best:
+
+1. [**Devcontainer & Docker-compose**](./docs/environment-setup-devcontainer.md) (recommended option)
+
+2. [**Poetry & python**](./docs/environment-setup-local-virtualenv) - for developers comfortable with the command line, pyenv and poetry. If you're on Windows, you must have & use WSL.
 
 <br>
 
