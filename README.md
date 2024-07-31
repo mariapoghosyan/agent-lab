@@ -2,13 +2,13 @@
 
 Welcome to **Agent** lab.
 
-Here, you will find several directories:
+Here, you will find the following directories:
 
 ```bash
-├── .devcontainer           # Local environment setup for the lab if you use VS Code devcontainers
+├── .devcontainer           # Local environment setup for the lab if you use VS Code Dev Containers
 ├── agent-lab               # Labs with exercises
 ```
 
 ## Next step
 
-Start with setting up the project, check the [Agent Lab introduction](./agent-lab/README.md).
+To get started, check out the [Agent Lab introduction](./agent-lab/README.md).
