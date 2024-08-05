@@ -1,6 +1,6 @@
 # Agent Lab
 
-This lab will provide you with a gentle introduction to AI Agents.
+This lab will provide you with a gentle introduction to [AI Agents](https://learn.microsoft.com/azure/cloud-adoption-framework/innovate/best-practices/conversational-ai).
 
 If you're totally new to Agents and Generative AI applications in general, you might start with this brief [introduction](docs/agent-introduction.md).
 
