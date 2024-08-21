@@ -56,9 +56,8 @@
 
 18. On the **Deploy model gpt-4** form use the following values.
     1. `Deployment name` = Choose any compatible name and **make a note of it**❗(e.g. *agent-lab*) since you will need this info later.
-    2. `Model version` = `2024-05-13`
-    3. `Deployment type` = `Standard`
-    4. Set the `Tokens per Minute Rate Limit` to the maximum value of `40K`
+    2. `Deployment type` = `Standard`
+    3. Set the `Tokens per Minute Rate Limit` to the maximum value of `40K`
 
     <img src="images/deployment-info.png" width="400">
 
