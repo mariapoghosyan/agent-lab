@@ -61,7 +61,7 @@
 
     <img src="images/deployment-info.png" width="400">
 
-19. Click the `Create` button and wait the deployment to complete.
+19. Click the `Deploy` button and wait the deployment to complete.
 20. You're done! Now return to configure the lab.
 
 
