@@ -12,7 +12,7 @@
 
     <img src="images/rg-create.png" width="600">  
 
-5. Enter a valid name for your resource group (e.g. *rg-agentlab*) and select a region (e.g. *Switzerland North*)  
+5. Enter a valid name for your resource group (e.g. *rg-agentlab*) and select **Sweden Central**  
 
     **Note:** The model availability changes from region to region so, while not strictly mandatory, it is always better to choose a resource group in the same region as the service you will deploy. See the [availability map](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#standard-deployment-model-availability).  
 
@@ -28,7 +28,7 @@
 
     <img src="images/add-azure-openai.png" width="800">  
 
-10. In the **Create Azure OpenAI** as resource group select the one you have just created (1), select the same region you have chosen for the resource group (2), give a name to the resource (3) (e.g. *agentlab-llm*)and select `Standard S0` as pricing tier (4).
+10. In the **Create Azure OpenAI** as resource group select the one you have just created (1), select **Sweden Central** (2) as Region, give a name to the resource (3) (e.g. *agentlab-llm*) and select `Standard S0` as pricing tier (4).
     Once done, click the `Next` button at the bottom of the page.  
 
     <img src="images/add-openai-info.png" width="600">  
@@ -49,19 +49,20 @@
     <img src="images/key-and-endpoint.png" width="800"> 
 
 15. Navigate back to the previous page and click the `Go to Azure OpenAI Studio`(2) button.
-16. In the Azure OpenAI studio portal click the `Deployments` menu on the left (1) and then `Create new deployment`.  
+16. In the Azure OpenAI studio portal click the `Deployments` menu on the left, select `Deploy model` and then `Deploy base model`.  
 
     <img src="images/create-deployment.png" width="800"> 
+17. On the `Select a model`, choose gpt-4.
 
-17. On the **Deploy model** form use the following values. 
-    1. `Select a model` = `gpt-4`
-    2. `Deployment name` = Choose any compatible name and **make a note of it**❗(e.g. *agent-lab*) since you will need this info later.
+18. On the **Deploy model gpt-4** form use the following values.
+    1. `Deployment name` = Choose any compatible name and **make a note of it**❗(e.g. *agent-lab*) since you will need this info later.
+    2. `Deployment type` = `Standard`
     3. Set the `Tokens per Minute Rate Limit` to the maximum value of `40K`
 
     <img src="images/deployment-info.png" width="400">
 
-18. Click the `Create` button and wait the deployment to complete.
-19. You're done! Now return to configure the lab.
+19. Click the `Deploy` button and wait the deployment to complete.
+20. You're done! Now return to configure the lab.
 
 
 
