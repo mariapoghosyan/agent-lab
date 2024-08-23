@@ -1,8 +1,7 @@
 # Environment setup using Poetry and local environment
 
-NB: This could be potentially the most challenging setup (if you don't have or
-are unfamiliar with WSL, Poetry, etc) or the quickest & most flexible (if you're
-comfortable with bash, `make` commands & have the necessary requirements).
+NB: This could be potentially the most challenging setup (if you don't have or are unfamiliar with WSL, Poetry, etc) or
+the quickest & most flexible (if you're comfortable with bash, `make` commands & have the necessary requirements).
 
 ## Requirements
 
@@ -28,10 +27,9 @@ poetry self update        # Ensure you have the latest version
 poetry install 
 ```
 
-This also creates a virtualenv within the `.venv` folder. There is no need to
-activate this virtualenv, since we will execute commands using `poetry run ...`
-instead (which automatically runs the commands within the virtualenv, and also
-loads environment variables).
+This also creates a virtualenv within the `.venv` folder.   There is no need to activate this virtualenv, since we
+will execute commands using `poetry run ...` instead (which automatically runs the commands within the virtualenv, and
+also loads environment variables).
 
 ### Configuration
 
