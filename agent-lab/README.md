@@ -37,7 +37,7 @@ You have 2 options for environment setup and using the Notebooks. Please choose 
 
 1. [**Dev Container & Docker-compose**](./docs/environment-setup-devcontainer.md) (recommended option)
 
-2. [**Poetry & python**](./docs/environment-setup-local-virtualenv) - for developers comfortable with the command line, pyenv and poetry. If you're on Windows, you must have & use WSL.
+2. [**Poetry & python**](./docs/environment-setup-local-virtualenv.md) - for developers comfortable with the command line, `pyenv` and `poetry`.
 
 <br>
 
