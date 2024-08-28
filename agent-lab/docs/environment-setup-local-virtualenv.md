@@ -9,7 +9,7 @@ Please ensure your development environment has the following:
 
 - [Python](https://www.python.org/downloads/) (versions 3.10, 3.11 and 3.12)
 - [Poetry](https://python-poetry.org/) for Python dependency management.
-- The ability to run Make commands
+- The ability to run [Make](https://www.gnu.org/software/make/manual/make.html) commands
 
 You may wish to consider running with [Dev Containers](environment-setup-devcontainer.md)
 if you do not have the above requirements.
