@@ -46,7 +46,7 @@ def call_openai(request):
     
     json_loads = json.loads(response.text)
     print(json_loads["choices"][0]["message"]["content"])
-# param = sys.argv[1]
+
 param = input("Enter your message:")
 call_openai(param)
 
