@@ -34,35 +34,14 @@ from typing import List, Optional
 from pydantic import BaseModel
 
 
-class PastaItem(BaseModel):
+class SoupItem(BaseModel):
     name: str
     price: float
     ingredients: List[str]
     label: str
 
 
-class PizzaItem(BaseModel):
-    name: str
-    price: float
-    ingredients: List[str]
-    label: str
-
-
-class Special(BaseModel):
-    name: str
-    price: float
-    ingredients: List[str]
-    label: str
-
-
-class Drink(BaseModel):
-    name: str
-    price: float
-    ingredients: List
-    label: str
-
-
-class DessertItem(BaseModel):
+class BowlItem(BaseModel):
     name: str
     price: float
     ingredients: List[str]
@@ -71,11 +50,8 @@ class DessertItem(BaseModel):
 
 class Menu(BaseModel):
     day: str
-    pasta: List[PastaItem]
-    pizza: List[PizzaItem]
-    specials: List[Special]
-    drinks: List[Drink]
-    dessert: List[DessertItem]
+    soup: List[SoupItem]
+    bowl: List[BowlItem]
 
 
 class Order(BaseModel):

@@ -1,0 +1,50 @@
+[
+    {
+      "firstname": "Asia",
+      "lastname": "Thai",
+      "email": "asia@thai.com",
+      "id": "#1111",
+      "card_digits": "8367",
+      "address": {
+        "street": "46 Thaistreet",
+        "city": "Thai city",
+        "state": "IL",
+        "zip": "94783",
+        "country": "Thailand"
+      },
+      "special": "true",
+      "phone": "687-109-8936"
+    },
+    {
+      "firstname": "Curry",
+      "lastname": "Rice",
+      "email": "curry@srice.com",
+      "id": "#2222",
+      "card_digits": "9278",
+      "address": {
+        "street": "673 Indiastreet",
+        "city": "Delhi",
+        "state": "IL",
+        "zip": "783",
+        "country": "India"
+      },
+      "special": "false",
+      "phone": "378-859-3829"
+    },
+    {
+      "firstname": "Spicey",
+      "lastname": "Satay",
+      "email": "spicey@satay.com",
+      "id": "#3333",
+      "card_digits": "7916",
+      "address": {
+        "street": "8926 Hongkongstreet",
+        "city": "Shanghai",
+        "state": "IL",
+        "zip": "9012",
+        "country": "China"
+      },
+      "special": "false",
+      "phone": "178-284-5623"
+    }
+  ]

@@ -1,0 +1,90 @@
+{
+    "normal": [
+      {
+        "day": "Monday",
+        "start": "8:00",
+        "end": "22:00",
+        "status": "open"
+      },
+      {
+        "day": "Tuesday",
+        "start": "8:00",
+        "end": "22:00",
+        "status": "open"
+      },
+      {
+        "day": "Wednesday",
+        "start": "8:00",
+        "end": "22:00",
+        "status": "open"
+      },
+      {
+        "day": "Thursday",
+        "start": "8:00",
+        "end": "22:00",
+        "status": "open"
+      },
+      {
+        "day": "Friday",
+        "start": "8:00",
+        "end": "22:00",
+        "status": "open"
+      },
+      {
+        "day": "Saturday",
+        "start": "",
+        "end": "",
+        "status": "closed"
+      },
+      {
+        "day": "Sunday",
+        "start": "",
+        "end": "",
+        "status": "closed"
+      }
+    ],
+    "special": [
+      {
+        "day": "Monday",
+        "start": "7:00",
+        "end": "23:00",
+        "status": "open"
+      },
+      {
+        "day": "Tuesday",
+        "start": "7:00",
+        "end": "23:00",
+        "status": "open"
+      },
+      {
+        "day": "Wednesday",
+        "start": "7:00",
+        "end": "23:00",
+        "status": "open"
+      },
+      {
+        "day": "Thursday",
+        "start": "7:00",
+        "end": "23:00",
+        "status": "open"
+      },
+      {
+        "day": "Friday",
+        "start": "7:00",
+        "end": "23:00",
+        "status": "open"
+      },
+      {
+        "day": "Saturday",
+        "start": "9:00",
+        "end": "21:00",
+        "status": "open"
+      },
+      {
+        "day": "Sunday",
+        "start": "",
+        "end": "",
+        "status": "closed"
+      }
+    ]
+  }

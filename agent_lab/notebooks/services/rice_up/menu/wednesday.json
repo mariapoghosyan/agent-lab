@@ -1,0 +1,30 @@
+{
+    "soup": [
+        {
+            "name": "Green Soup",
+            "price": 12.99,
+            "ingredients": ["celery", "leek", "parsley"],
+            "label": "Vegan"
+        },
+        {
+            "name": "Shrimp Soup",
+            "price": 11.99,
+            "ingredients": ["shrimps", "lemongrass", "chili flakes", "celery"],
+            "label": ""
+        }
+    ],
+    "bowl": [
+        {
+            "name": "Tofu Bowl",
+            "price": 10.99,
+            "ingredients": ["jasmine rice", "tofu", "green beans", "sweet sour sauce", "peanuts"],
+            "label": "Vegetarian"
+        },
+        {
+            "name": "Shrimp Bowl",
+            "price": 11.99,
+            "ingredients": ["jasmine rice", "shrimps", "sweet sour sauce"],
+            "label": ""
+        }
+    ]
+} 
